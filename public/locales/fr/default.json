@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "title": "Accueil",
+        "description": "Bienvenue sur le site de l'entreprise de ability management services, spécialisée dans le management de projets et la gestion de la qualité."
+    },
+    "navbar": {
+        "item1" : "Qui sommes-nous",
+        "item2" : "Nos valeurs",
+        "item3" : "Nos services",
+        "item4" : "Nous contacter"
+    },
+    "hero": {
+        "title": "Bienvenue sur le site de ability management services",
+        "subtitle": "Spécialisée dans le management de projets et la gestion de la qualité",
+        "contact-button": "Nous contacter"
+    }
+}

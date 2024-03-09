@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "title": "Home",
+        "description": "This is the home page"
+    },
+    "navbar": {
+        "item1" : "Who we are",
+        "item2" : "Our values",
+        "item3" : "Our services",
+        "item4" : "Contact us"
+    },
+    "hero": {
+        "title": "Welcome to our website",
+        "subtitle": "We are a company that does things",
+        "contact-button": "Contact us"
+    }
+}
