@@ -25,7 +25,6 @@ const Navbar = () => {
                 alt="N"
                 width="120"
                 height="120"
-                className="w-full"
               />
             </span>
           </span>
